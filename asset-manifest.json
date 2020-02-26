@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "/biology/static/js/main.0488a234.chunk.js",
-    "main.js.map": "/biology/static/js/main.0488a234.chunk.js.map",
-    "runtime-main.js": "/biology/static/js/runtime-main.760680f2.js",
-    "runtime-main.js.map": "/biology/static/js/runtime-main.760680f2.js.map",
-    "static/css/2.ae2f4c93.chunk.css": "/biology/static/css/2.ae2f4c93.chunk.css",
-    "static/js/2.c25c318a.chunk.js": "/biology/static/js/2.c25c318a.chunk.js",
-    "static/js/2.c25c318a.chunk.js.map": "/biology/static/js/2.c25c318a.chunk.js.map",
-    "index.html": "/biology/index.html",
-    "precache-manifest.13ec44a80124ef21bb1781059942612d.js": "/biology/precache-manifest.13ec44a80124ef21bb1781059942612d.js",
-    "service-worker.js": "/biology/service-worker.js",
-    "static/css/2.ae2f4c93.chunk.css.map": "/biology/static/css/2.ae2f4c93.chunk.css.map"
+    "main.js": "/biology_admin/static/js/main.8aa9978a.chunk.js",
+    "main.js.map": "/biology_admin/static/js/main.8aa9978a.chunk.js.map",
+    "runtime-main.js": "/biology_admin/static/js/runtime-main.a542d077.js",
+    "runtime-main.js.map": "/biology_admin/static/js/runtime-main.a542d077.js.map",
+    "static/css/2.ae2f4c93.chunk.css": "/biology_admin/static/css/2.ae2f4c93.chunk.css",
+    "static/js/2.c2ae6db1.chunk.js": "/biology_admin/static/js/2.c2ae6db1.chunk.js",
+    "static/js/2.c2ae6db1.chunk.js.map": "/biology_admin/static/js/2.c2ae6db1.chunk.js.map",
+    "index.html": "/biology_admin/index.html",
+    "precache-manifest.fbc0af0dc24911a6eae6318a122503d3.js": "/biology_admin/precache-manifest.fbc0af0dc24911a6eae6318a122503d3.js",
+    "service-worker.js": "/biology_admin/service-worker.js",
+    "static/css/2.ae2f4c93.chunk.css.map": "/biology_admin/static/css/2.ae2f4c93.chunk.css.map"
   }
 }
