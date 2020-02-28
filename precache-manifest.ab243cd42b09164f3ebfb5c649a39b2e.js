@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f1fc181fff2ed0d7a0d71a8ada51f409",
+    "revision": "628d6c035c7cdf65670b2e16a616da5d",
     "url": "/biology_admin/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/biology_admin/static/js/2.85256649.chunk.js"
   },
   {
-    "revision": "31ac0e2fbd0698aafb4f",
-    "url": "/biology_admin/static/js/main.ff28dada.chunk.js"
+    "revision": "b6709173c1062339a79f",
+    "url": "/biology_admin/static/js/main.3c58782f.chunk.js"
   },
   {
     "revision": "5b546bfcc4a8c4c7e605",
